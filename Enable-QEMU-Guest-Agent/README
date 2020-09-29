@@ -1,0 +1,1 @@
+This directory holds some scripts for installing and enabling the qemu guest agent on linux vms that are running on Proxmox.
